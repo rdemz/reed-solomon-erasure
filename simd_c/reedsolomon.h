@@ -24,7 +24,7 @@
 #include <stdint.h>
 
 #ifndef _WIN32
-#  include <unistd.h>
+
 #endif
 
 #if HAVE_CONFIG_H
